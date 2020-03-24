@@ -1,4 +1,4 @@
-#thingaday-sonicpi
+# thingaday-sonicpi
 
 Wherein your tone-deaf coder explores Sonic Pi and makes beats and things.
 
