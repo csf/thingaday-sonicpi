@@ -1,4 +1,4 @@
-#Day2
+# Day2
 Some attempts at various blues progressions.
 
 The first one,  [blues_random_synth.rb](./blues_random_synth.rb), is just one of the tutorial samples with a few chords in it to see what a blues progression sounds like. There's no trace of blues in it because I used major chords and there's no real progression at all discernible. Then I went to wikipedia to learn more.
@@ -11,6 +11,8 @@ I finally landed that had some semblence of a progression, albeit reminiscent of
 Click to try:
 
 [blues_random_synth.wav](./blues_random_synth.wav)
+
 [bluesprog_try1.wav](./bluesprog_try1.wav)
+
 [ratchety_distorted_blues.wav](./ratchety_distorted_blues.wav)
 
