@@ -3,7 +3,7 @@
 Wherein your tone-deaf coder explores Sonic Pi and makes beats and things.
 
 ## Goal
-Make a thing a day during this quarantine.
+Make a thing a day during this quarantine, thanks to [Sonic Pi](https://sonic-pi.net).
 
 ## Index
 [Day 1 -- Starting Out](./day1)
@@ -12,4 +12,5 @@ Make a thing a day during this quarantine.
 
 [Day 3 -- Gob: a bunch of live loops that can be built up...live](./day3)
 
+[Day 4 -- Publishing This Stuff--No Time for Music](./day4)
 
