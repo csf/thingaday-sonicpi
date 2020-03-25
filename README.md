@@ -14,3 +14,5 @@ Make a thing a day during this quarantine, thanks to [Sonic Pi](https://sonic-pi
 
 [Day 4 -- Publishing This Stuff--No Time for Music](./day4)
 
+[Day 5 -- Undefined Behavior from the Tick--And Again, No Time for Music](./day5)
+
